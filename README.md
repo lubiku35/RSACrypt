@@ -6,9 +6,6 @@
 
 > **Subject**: Programming in C/C++
 
-# Table of Contents
-
-
 # Introduction
 
 Welcome on the RSAcrypt project. This project is a part of the course **Programming in C/C++** at the CTU (Czech Technical University in Prague). The goal of this project is to implement the RSA cryptosystem in C/C++ language.
